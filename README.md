@@ -4,6 +4,8 @@ A look at who our customers actually are, what they're worth, and how long
 they stick around — so marketing and retention spend goes where it
 actually pays off.
 
+![image alt](https://github.com/hassandata3/RFM-CLV-Cohort-Analysis/blob/main/Screenshot%20Overview.png?raw=true)
+
 ## What this answers
 
 **1. Which customers matter most, right now.**
@@ -12,6 +14,8 @@ how much they order. The top segment — just **8.6% of customers** —
 generates **34% of all revenue**. That's a small, identifiable group worth
 protecting with priority service or loyalty perks, not a number lost in
 an average.
+
+![image alt](https://github.com/hassandata3/RFM-CLV-Cohort-Analysis/blob/main/Screenshot%20CLV-Cohort.png?raw=true)
 
 **2. What each customer is worth going forward, not just what they've
 spent already.**
