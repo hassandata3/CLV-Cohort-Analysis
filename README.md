@@ -6,6 +6,8 @@ actually pays off.
 
 ![image alt](https://github.com/hassandata3/RFM-CLV-Cohort-Analysis/blob/main/Screenshot%20Overview.png?raw=true)
 
+![image alt](https://github.com/hassandata3/CLV-Cohort-Analysis/blob/main/Screenshot%20Segment.png?raw=true)
+
 ## What this answers
 
 **1. Which customers matter most, right now.**
